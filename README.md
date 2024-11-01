@@ -8,8 +8,8 @@ This project is conducted as part of the Exploratory Data Analysis (EDA) project
   - The dataset is available in two versions:
     - **Non-preprocessed Version**: Contains FPKM values for each gene in each sample.
     - **Preprocessed Version**: Adds metastasis information and restructures the data so that each gene in each sample occupies a single row.
-- **Code**: Scripts for data preprocessing, analysis, and visualization.
-- **Presentation Slides**: A presentation is included to introduce the dataset and answer five key questions with visualization.
+- **Code**: Scripts for data analysis and visualization.
+- **Presentation Slides**: A presentation introducing the dataset and answering five key questions with visualization.
   
 ## Results Examples
 ### Top Expressive Genes

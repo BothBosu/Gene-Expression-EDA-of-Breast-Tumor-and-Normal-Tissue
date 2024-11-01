@@ -29,4 +29,4 @@ This project is conducted as part of the Exploratory Data Analysis (EDA) project
 
 ## References
 - **Dataset**: The gene expression dataset used in this project can be accessed on [NCBI GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi).
-**Visualization Tutorial**: For detailed instructions on generating visualizations, refer to [this YouTube tutorial](https://www.youtube.com/watch?v=RukuTtiY4Sg).
+- **Visualization Tutorial**: For detailed instructions on generating visualizations, refer to [this YouTube tutorial](https://www.youtube.com/watch?v=RukuTtiY4Sg).

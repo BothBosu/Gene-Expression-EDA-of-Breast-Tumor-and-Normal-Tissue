@@ -1,7 +1,7 @@
 # Gene-Expression-EDA-of-Breast-Tumor-and-Normal-Tissue
 
 ## Overview
-This project aims to analyze gene expression data to understand the differences between breast tumor and normal tissue through gene expression analysis.
+This project is conducted as part of the Exploratory Data Analysis (EDA) project for ICCS361 at Mahidol University International College. This project aims to analyze gene expression data to understand the differences between breast tumor and normal tissue through gene expression analysis.
 
 ## Project Structure
 - **Data**:
